@@ -1,3 +1,7 @@
+# It's a index.md of some-some-stuff-blog
+
+Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lanskask/some-some-stuff-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
